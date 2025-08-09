@@ -1,0 +1,19 @@
+:root {
+	--darkGray: #222222;
+	--lightGray: #2C2C2C;
+	--lightestGray: rgba(255, 255, 255, 0.5);
+	--red: #E31C25;
+	--darkRed: #BB000E;
+	--white: #FFFFFF;
+	--black: #000000;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.6rem;
+	background-color: #000000;
+}
